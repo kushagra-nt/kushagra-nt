@@ -1,5 +1,6 @@
 # 💫 About Me:
-A passionate software developer from india, currently working as an fullstack developer intern
+A passionate software developer from india, currently working as an fullstack developer intern.
+contact me at [kushagra3288@gmail.com](mailto:kushagra3288@gmail.com)
 
 
 ## 🌐 Socials:
