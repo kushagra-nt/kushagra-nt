@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate software developer from india, currently working as an fullstack developer intern.<br>
+A passionate software developer from india, currently working as an Frontend Engineer at Amazon.<br>
 contact me at [kushagra3288@gmail.com](mailto:kushagra3288@gmail.com)
 
 
